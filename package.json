@@ -3,6 +3,7 @@
 	"author": "Andrew Kaplan",
 	"description": "a project to be proud of.",
 	"keywords": [ "backEnd", "npm", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
