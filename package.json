@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andrew Kaplan",
+	"description": "a project to be proud of.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
